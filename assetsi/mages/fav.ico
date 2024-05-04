@@ -1,0 +1,1495 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Page not found</title>
+    <!-- META TAGS -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Sanjivani College of Pharmaceutical Education and Research:Autonomous Institute Join B. Pharmacy and unlock a world of opportunities for your future! Autonomous Institute Advantages:Recognized degree from Savitribai Phule Pune University
+ Industry-oriented syllabus and latest technologies Placement opportunities and practical training Hands-on projects, Hands-on trainings and international internships Artificial intelligence, Coursera like integrated courses Gain industry exposure through trainings and internships">
+    <meta name="keyword" content="Sanjivani College of Pharmacy">
+    <!-- FAV ICON(BROWSER TAB ICON) -->
+    <link rel="shortcut icon" href="https://sanjivanipharm.org.in/assetsi/mages/fav.ico" type="image/x-icon">
+    <!-- GOOGLE FONT -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700%7CJosefin+Sans:600,700" rel="stylesheet">
+    <!-- FONTAWESOME ICONS -->
+    <link rel="stylesheet" href="https://sanjivanipharm.org.in/assets/css/font-awesome.min.css">
+    <!-- ALL CSS FILES -->
+    <link href="https://sanjivanipharm.org.in/assets/css/materialize.css" rel="stylesheet">
+    <link href="https://sanjivanipharm.org.in/assets/css/bootstrap.css" rel="stylesheet" />
+    <link href="https://sanjivanipharm.org.in/assets/css/style.css?v=1714661251" rel="stylesheet" /> 
+    <!-- RESPONSIVE.CSS ONLY FOR MOBILE AND TABLET VIEWS -->
+    <link href="https://sanjivanipharm.org.in/assets/css/style-mob.css" rel="stylesheet" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+     
+        <style type="text/css">
+            .error{
+                color: red !important;
+            }
+        </style>
+<style type="text/css"> 
+    body{
+        text-align:justify !important;
+        font-family:'Roboto Slab', 'serif' !important ;
+    }
+    
+    h2{
+        color: #139a88 !important;
+        font-weight: 600 !important;
+    }
+
+     .ed-com-t1-left ul li a{
+        color:#ffffff !important;   
+        font-weight:bold !important;
+        font-size:13px !important;
+        line-height:37px !important;
+        border-right:2px solid #043267     !important;
+    }
+
+.ed-com-t1-social ul li a i{
+    color: #f5f5f5 !important;
+    padding: 15px 4px !important;
+    width: 32px !important;
+}
+
+
+body p{
+    text-align: justify !important;
+    /*font-weight: bold !important;*/
+    color: #4a4a4a !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    padding: 10px 0 !important;
+}
+
+
+.ed-about-sec1{
+    font-size:15px !important;
+     text-align: justify !important;
+     font-family:'Roboto Slab', 'serif' !important ;
+
+}
+ .wed-foot-link ul li a{
+     color:#ffffff !important;   
+    /*font-weight:bold !important;*/
+    font-size:13px !important;
+    /*line-height:37px !important;*/
+    /*border-right:2px solid #043267     !important;*/
+ }
+ .wed-hom-footer p{
+       color:#ffffff !important;   
+    /*font-weight:bold !important;*/
+    font-size:13px !important;
+ }
+ 
+.wed-hom-footer p a{
+       color:#ffffff !important;   
+    /*font-weight:bold !important;*/
+    font-size:13px !important;
+ }
+ 
+.wed-hom-footer h4{
+     font-size: 20px;
+    font-weight: bold;
+    /*text-decoration: underline;*/
+    color: #ff9900;
+}
+.col-md-4.foot-tc-mar-t-o h4 {
+    text-decoration: none !important;
+}
+ 
+   </style>
+   
+
+
+    <style> 
+/* Classes */
+.box {
+  width: 100%;
+  text-align: center;
+  margin: 20px auto;
+  margin-bottom: 30px;
+  padding: 35px 15px;
+  background-color: #ffffff;
+  color: gray;
+  vertical-align: middle;
+  font-weight:bold;
+  font-size:20px;
+}
+.basic-drop-shadow {
+  box-shadow: 0 0 10px;
+}
+.inner-shadow {
+  box-shadow: inset 0 0 10px;
+}
+.offset-bottom-right-shadow {
+  box-shadow: 5px 5px 10px;
+}
+.offset-top-left-shadow {
+  box-shadow: -5px -5px 10px;
+}
+.inset-property-box-shadow {
+  box-shadow: inset 0 0 5px 5px olive;
+}
+.no-inset-property-box-shadow {
+  box-shadow: 0 0 5px 5px olive;
+}
+.horizontal-offset-box-shadow {
+   box-shadow: 20px 10px;
+}
+.vertical-offset-box-shadow {
+  box-shadow: 10px -20px;
+}
+.blur-radius-box-shadow {
+  box-shadow: 5px 5px 20px;
+}
+.spread-distance-box-shadow {
+  box-shadow: 0 0 10px 5px;
+}
+.negative-spread-distance-box-shadow {
+  box-shadow: 0 10px 10px -5px;
+}
+.default-color-box-shadow {
+  color: red;
+  box-shadow: 0 0 10px 5px;
+}
+.color-box-shadow {
+  color: red;
+  box-shadow: 0 0 10px 5px blue;
+}
+.multiple-box-shadows {
+  box-shadow: -5px -5px 30px 5px red, 5px 5px 30px 5px blue;
+}
+ 
+    .blur-radius-box-shadow > a {
+        font-size: 21px !important;
+        font-weight: bold !important;
+    }
+</style>
+    <style>
+        .menu_title_new{
+            padding:0px !important;
+            /*text-decoration:underline;*/
+              border-bottom: 5px solid #ff9900;
+            color:#ff9900 !important;
+            font-weight:bold;
+        }
+        .menu_title_new a{
+            line-height:0px !important;
+            color:#ff9900 !important;
+        }
+        
+        
+        .page_head_title{
+             font-family:'Roboto Slab', 'serif' !important ;
+            color:#139a88 !important;
+            font-weight:bold !important;
+            text-align:center;
+            font-size:20px;
+        }
+        
+        /*menu changes*/
+        .mm-pos{
+            position:static !important;
+        }
+        
+        .m-menu{
+            width:auto !important;
+        }
+        
+        
+        .about-menu .mm1-com{
+        	width:50% !important
+        }
+        
+        .admi-menu .mm1-com{
+        	width:33% !important
+        }
+        
+        .stud-menu .mm1-com{
+        	width:25% !important
+        }
+        
+        .rnd-menu .mm1-com{
+        	width:100% !important
+        }
+        
+        
+        .train-menu .mm1-com{
+        	width:100% !important
+        }
+        
+        .regu-menu .mm1-com{
+        	width:100% !important
+        }
+        
+    </style>
+</head>
+
+<body>
+         
+
+
+    <!-- MOBILE MENU -->
+    <section>
+        <div class="ed-mob-menu">
+            <div class="ed-mob-menu-con">
+                <div class="ed-mm-left">
+                    <div class="wed-logo">
+                        <a href="https://sanjivanipharm.org.in/"><img src="https://sanjivanipharm.org.in/assets/images/logo.png" alt="" />
+                        </a>
+                    </div>
+                </div>
+                <div class="ed-mm-right">
+                    <div class="ed-mm-menu">
+                        <a href="#!" class="ed-micon"><i class="fa fa-bars"></i></a>
+                        <div class="ed-mm-inn">
+                            <a href="#!" class="ed-mi-close"><i class="fa fa-times"></i></a>
+                            <h4>All Courses</h4>
+                            <ul>    
+                                <li><a href="https://sanjivanipharm.org.in/courses">Courses</a></li>  
+                                                                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/4">Diploma of Pharmacy</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/3">Bachelor of Pharmacy</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/2">Master of Pharmacy</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/1">Ph.D.</a></li> 
+                                                                      
+                            </ul>
+                            
+
+                            <h4>All Departments</h4>
+                            <ul>
+                                <li><a href="https://sanjivanipharm.org.in/departments">Department</a></li> 
+                                                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/4">Pharmacology</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/3">Pharmacognosy</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/2">Pharmaceutical Chemistry</a></li> 
+                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/1">Pharmaceutics</a></li> 
+                                                                      
+                            </ul>
+
+                            <h4>About Us</h4> 
+                            <ul>
+                                <li><a href="https://sanjivanipharm.org.in/about_us/chairmans-desk">Chairman’s Message</a></li>
+                                <!--<li><a href="">Executive Trustee’s Message</a></li>-->
+                                <li><a href="https://sanjivanipharm.org.in/about_us/managing-trusteess-message">Managing Trustee’s Message</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/about_us/principle-desk">Director’s Message</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/vision_and_mission">Vision and Mission</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/milestones">Milestones</a></li>
+                             
+                                <li><a href="javascript:void(0)">Sister Institutes</a></li>
+                                <li><a target="_blank" href="https://www.sanjivanicoe.org.in">Sanjivani College of Engineering</a></li>
+                                <li><a target="_blank" href="https://sanjivanikbp.org.in">Sanjivani Polytechnic</a></li>
+                                <li><a target="_blank" href="https://sanjivaniacs.org.in">Sanjivani Arts,Commerce &amp; Science College</a></li>
+                                <li><a target="_blank" href="https://sanjivanijunior.org.in">Sanjivani Junior College</a></li>
+                                <li><a target="_blank" href="https://sanjivaniacademy.org.in">Sanjivani Academy</a></li>
+                                <li><a target="_blank" href="https://sanjivanisainiki.org.in">Sanjivani Sainiki School</a></li>
+                                <li><a target="_blank" href="https://sanjivanitoddlers.org.in">Sanjivani Toddlers , Yeola</a></li>
+                                <li><a target="_blank" href="https://sanjivaniinternational.org.in">Sanjivani International School , Shirdi</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/gallary">Gallary </a></li>  
+                            </ul> 
+
+
+                            <h4>ACADEMICS</h4> 
+                            <ul>
+                                <li><a href="https://sanjivanipharm.org.in/peos">PEO's &amp; PO's</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/faculty">Faculty</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/academic_calender">Academic Calender</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/timetable">Timetable</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/results">Results</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/library">Library</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/online_education">Online Education Platform</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/innovative_teaching">Innovative Teaching Methods</a></li>  
+                            </ul> 
+
+
+                            <h4>STUDENT CORNER</h4> 
+                            <ul>
+                                <!--<li><a href="" target="_blank">Student Grievance</a></li>-->
+                                <li><a href="https://sanjivanipharm.org.in/student_grievance" >Student Grievance</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/uploads/International-Conference-2024.pdf" target="_blank">International-Conference-2024</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/facilities">Facilities</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/students_achievements">Student’s Achievements</a></li>   
+                                <li><a href="https://sanjivanipharm.org.in/useful_links">Useful Links</a></li>   
+                                <li><a href="https://sanjivanipharm.org.in/news_letter">News Letter</a></li>   
+                                <li><a href="javascript:void(0)">Student Support</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/student_council">Student Council</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/student_development">Student Development Office</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/national_service_scheme">National Service Scheme</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/magazine">Magazine and News Letter</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/innovative_teaching">Committees</a></li>  
+                                <li><a href="javascript:void(0)">Events</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/annual_day">Annual Day</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/guest_lectures">Guest Lectures</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/graduation_day">Graduation Day Ceremony</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/student_development_programs">Student Development Programs</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/sanjivani_avishkar">Sanjivani Avishkar</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/my_story_board">My Story Board</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/thought_leaders">Sanjivani Thought Leaders</a></li>  
+                                <li><a href="javascript:void(0);">Alumni</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/alumni_login">Alumni Login</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/alumni_login/list">Alumni Information</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/student_board">Sanjivani My Story Board</a></li> 
+                            </ul>
+             
+
+                            <h4>TRAINING & PLACEMENT</h4> 
+                            <ul>
+                                <li><a href="https://sanjivanipharm.org.in/placement_policy">Placement Policy</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/skill_development_courses">Skill Development Courses</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/placement">Placement</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/value_recruiters">Value Recruiters</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/industrial_visits">Industrial Visits</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/sanjivani_thought_leaders">Sanjivani Thought Leaders</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/industry_interaction">Industrial Linkages</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/consultancy_services">Consultancy Services</a></li>  
+                                <li><a href="https://sanjivanipharm.org.in/industrial_internship">Industrial Internship</a></li> 
+                            </ul> 
+                                
+                            <h4>REGULATORY</h4> 
+                            <ul> 
+                               
+                                 <li><a href="https://sanjivanipharm.org.in/regulatory/all_approvals">All Approvals</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/naac">NAAC</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/nba">NBA</a></li> 
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/nirf">NIRF</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/aicte">AICTE</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/pci">PCI</a></li>
+                                <li><a href="https://sanjivanipharm.org.in/regulatory/fra">FRA</a></li>    
+                                <li><a href="https://sanjivanipharm.org.in/contact">Contact</a> </li>
+                            </ul>
+
+
+                            <!-- <h4>User Account</h4>
+                            <ul>
+                                <li><a href="#!" data-toggle="modal" data-target="#modal1">Sign In</a></li>
+                                <li><a href="#!" data-toggle="modal" data-target="#modal2">Register</a></li>
+                            </ul> 
+                            
+
+                            <h4>User Profile</h4>
+                            <ul>
+                                <li><a href="dashboard.html">User profile</a></li>
+                                <li><a href="db-courses.html">Courses</a></li>
+                                <li><a href="db-exams.html">Exams</a></li>
+                                <li><a href="db-profile.html">Prfile</a></li>
+                                <li><a href="db-time-line.html">Time line</a></li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--HEADER SECTION-->
+    <section>
+        <!-- TOP BAR -->
+        <div class="ed-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="ed-com-t1-left">
+                            <ul>
+                                <li><a href="#">Sanjivani College of Pharmaceutical Education and Research (An Autonomous Institute)</a>
+                                </li>
+                                <li><a href="#">Phone: +91-91 301 913 01</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-right">
+                            <ul>
+                                <!-- <li><a href="#!" data-toggle="modal" data-target="#modal1">Sign In</a> </li> -->
+                                <!-- <li><a href="#!" data-toggle="modal" data-target="#modal2">Sign Up</a> </li> -->
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-social">
+                            <ul>
+                                <li><a target="_blank" href="https://www.facebook.com/Sanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                </li>
+                                <li><a target="_blank" href="https://www.youtube.com/channel/UCVR0A7E8_gK-FoVv0u2Vk2w/videos?view_as=subscriber"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                                </li>
+                                <li><a target="_blank" href="https://twitter.com/Sanjivani_Group?lang=en"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- LOGO AND MENU SECTION -->
+        <div class="top-logo" data-spy="affix" data-offset-top="250">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="wed-logo">
+                            <a href="https://sanjivanipharm.org.in/"><img src="https://sanjivanipharm.org.in/assets/images/logo.png" alt="" />
+                            </a>
+                        </div>
+                        <div class="main-menu">
+                            <ul>
+                                <!-- <li><a href="https://sanjivanipharm.org.in/">Home</a> </li> -->
+                                <li class="about-menu">
+                                    <a href="javascript:void(0);" class="mm-arr">ABOUT</a>
+                                    <!-- MEGA MENU 1 -->
+                                    <div class="mm-pos">
+                                        <div class="about-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                <div class="mm1-com mml-com mm1-s1" >
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/about_us/chairmans-desk">Chairman’s Message</a></li>
+                                                        <!--<li><a href="">Executive Trustee’s Message</a></li>-->
+                                                        <li><a href="https://sanjivanipharm.org.in/about_us/managing-trusteess-message">Managing Trustee’s Message</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/about_us/principle-desk">Director’s Message</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/vision_and_mission">Vision and Mission</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/milestones">Milestones</a></li>
+                                                         <li><a href="https://sanjivanipharm.org.in/gallary">Gallary </a></li>  
+                                                    </ul>
+                                                </div>
+                                                <div class="mm1-com mml-com mm1-s1" >
+                                                        <div class='menu_title_new'><a href="javascript:void(0)">Sister Institutes >></a></div>
+                                                    <ul>
+                                                        <li><a target="_blank" href="https://www.sanjivanicoe.org.in">Sanjivani College of Engineering</a></li>
+                                                        <li><a target="_blank" href="https://sanjivanikbp.org.in">Sanjivani Polytechnic</a></li>
+                                                        <li><a target="_blank" href="https://sanjivaniacs.org.in">Sanjivani Arts,Commerce &amp; Science College</a></li>
+                                                        <li><a target="_blank" href="https://sanjivanijunior.org.in">Sanjivani Junior College</a></li>
+                                                        <li><a target="_blank" href="https://sanjivaniacademy.org.in">Sanjivani Academy</a></li>
+                                                        <li><a target="_blank" href="https://sanjivanisainiki.org.in">Sanjivani Sainiki School</a></li>
+                                                        <li><a target="_blank" href="https://sanjivanitoddlers.org.in">Sanjivani Toddlers , Yeola</a></li>
+                                                        <li><a target="_blank" href="https://sanjivaniinternational.org.in">Sanjivani International School , Shirdi</a></li>
+                                                    </ul>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="admi-menu">
+                                    <a href="javascript:void(0)" class="mm-arr">ACADEMICS</a> 
+                                    <div class="mm-pos">
+                                        <div class="admi-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/peos">PEO's &amp; PO's</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/faculty">Faculty</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/academic_calender">Academic Calender</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/timetable">Timetable</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/results">Results</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/library">Library</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/online_education">Online Education Platform</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/innovative_teaching">Innovative Teaching Methods</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/syllabus">Syllabus</a></li>
+                                                    </ul>
+                                                </div> 
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <div class='menu_title_new'><a href="https://sanjivanipharm.org.in/courses">Courses >></a></div> 
+                                                    <ul>  
+                                                                                                                                                                                                                                                 <li><a href="https://sanjivanipharm.org.in/D-pharmacy/index.html">Diploma of Pharmacy</a></li>
+                                                                                                                                                                                                                                                         <li><a href="https://sanjivanipharm.org.in/courses/detail/3">Bachelor of Pharmacy</a></li> 
+                                                                                                                                                                                                                                                     <li><a href="https://sanjivanipharm.org.in/courses/detail/2">Master of Pharmacy</a></li> 
+                                                                                                                                                                                                                                                     <li><a href="https://sanjivanipharm.org.in/courses/detail/1">Ph.D.</a></li> 
+                                                                                                                                                                                  
+                                                    </ul>
+                                                </div> 
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <div class='menu_title_new'><a href="https://sanjivanipharm.org.in/departments">Department  >></a></div> 
+                                                    <ul>
+                                                                                                                                                                                    <li><a href="https://sanjivanipharm.org.in/departments/detail/4">Pharmacology</a></li> 
+                                                                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/3">Pharmacognosy</a></li> 
+                                                                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/2">Pharmaceutical Chemistry</a></li> 
+                                                                                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/1">Pharmaceutics</a></li> 
+                                                                                                                      
+                                                           
+                                                    </ul>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+
+                                <li class="stud-menu">
+                                    <a href="javascript:void();" class="mm-arr">STUDENT CORNER</a> 
+                                    <div class="mm-pos">
+                                        <div class="stud-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/student_grievance" >Student Grievance</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/uploads/International-Conference-2024.pdf" target="_blank">International-Conference-2024</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/facilities">Facilities</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/students_achievements">Student’s Achievements</a></li>   
+                                                        <li><a href="https://sanjivanipharm.org.in/useful_links">Useful Links</a></li>   
+                                                        <li><a href="https://sanjivanipharm.org.in/news_letter">News Letter</a></li>   
+                                                    </ul>
+                                                </div>  
+
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                        <div class='menu_title_new'><a href="javascript:void(0)">Student Support >></a></div>  
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/student_council">Student Council</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/student_development">Student Development Office</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/national_service_scheme">National Service Scheme</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/magazine">Magazine and News Letter</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/innovative_teaching">Committees</a></li>  
+                                                    </ul>
+                                                </div>  
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                        <div class='menu_title_new'><a href="javascript:void(0)">Events >></a></div>  
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/annual_day">Annual Day</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/guest_lectures">Guest Lectures</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/graduation_day">Graduation Day Ceremony</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/student_development_programs">Student Development Programs</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/sanjivani_avishkar">Sanjivani Avishkar</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/my_story_board">My Story Board</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/thought_leaders">Sanjivani Thought Leaders</a></li>  
+                                                    </ul>
+                                                </div>  
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <div class='menu_title_new'><a href="javascript:void(0);">Alumni >></a></div>  
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/alumni_login">Alumni Login</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/alumni_login/list">Alumni Information</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/student_board">Sanjivani My Story Board</a></li> 
+                                                    </ul>
+                                                </div>  
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li> 
+
+
+                                  <li class="rnd-menu">
+                                    <a href="javascript:void();" class="mm-arr">R & D</a> 
+                                    <div class="mm-pos">
+                                        <div class="rnd-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/innovation_and_incubation">Innovation &amp; Incubation Cell</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/research_facilities">Research Facilities</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/faculty_research">Faculty Research Profile</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/funded_research_projects">Funded Research Projects</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/achievements">Research Outcome</a></li>    
+                                                    </ul>
+                                                </div>  
+ 
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li> 
+  
+
+
+                                <li class="train-menu">
+                                    <a href="javascript:void();" class="mm-arr">TRAINING & PLACEMENT</a> 
+                                    <div class="mm-pos">
+                                        <div class="train-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/placement_policy">Placement Policy</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/skill_development_courses">Skill Development Courses</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/placement">Placement</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/value_recruiters">Value Recruiters</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/industrial_visits">Industrial Visits</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/sanjivani_thought_leaders">Sanjivani Thought Leaders</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/industry_interaction">Industrial Linkages</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/consultancy_services">Consultancy Services</a></li>  
+                                                        <li><a href="https://sanjivanipharm.org.in/industrial_internship">Industrial Internship</a></li> 
+                                                    </ul>
+                                                </div>  
+ 
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>   
+  
+
+                                <li class="regu-menu">
+                                    <a href="https://sanjivanipharm.org.in/regulatory" class="mm-arr">REGULATORY</a> 
+                                    <div class="regu-mm">
+                                        <div class="regu-mm m-menu">
+                                            <div class="m-menu-inn"> 
+                                                
+                                                <div class="mm1-com mml-com mm1-s1">
+                                                    <div class='menu_title_new'><a href="https://sanjivanipharm.org.in/regulatory/all_approvals">All Approvals >></a></div> 
+                                                    <ul>
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/naac">NAAC</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/nba">NBA</a></li> 
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/nirf">NIRF</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/aicte">AICTE</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/pci">PCI</a></li>
+                                                        <li><a href="https://sanjivanipharm.org.in/regulatory/fra">FRA</a></li>    
+                                                    </ul>
+                                                </div>   
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>   
+
+                              
+
+                             
+                                <!-- <li><a href="all-courses.html">All Courses</a></li> -->
+                                <!--<li><a class='dropdown-button ed-sub-menu' href='#' data-activates='dropdown1'>Courses</a></li>-->
+                               
+                                <!-- <li><a href="events.html">Events</a> -->
+                                </li>
+                                <!-- <li><a href="dashboard.html">Student</a> -->
+                                </li>
+                                <li><a href="https://sanjivanipharm.org.in/contact">CONTACT</a> </li>
+                                 <li><a href="https://sanjivanipharm.org.in/sird">SIRD</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="all-drop-down-menu">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="search-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="search-form">
+                            <form>
+                                <div class="sf-type">
+                                    <div class="sf-input">
+                                        <input type="text" id="sf-box" placeholder="Search courses">
+                                    </div>
+                                    <div class="sf-list">
+                                        <ul> 
+                                                                                                                                                <li><a href="https://sanjivanipharm.org.in/courses/detail/4">Diploma of Pharmacy</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/courses/detail/3">Bachelor of Pharmacy</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/courses/detail/2">Master of Pharmacy</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/courses/detail/1">Ph.D.</a></li> 
+                                                                                              
+
+                                                                                                                                                <li><a href="https://sanjivanipharm.org.in/departments/detail/4">Pharmacology</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/departments/detail/3">Pharmacognosy</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/departments/detail/2">Pharmaceutical Chemistry</a></li> 
+                                                                                                    <li><a href="https://sanjivanipharm.org.in/departments/detail/1">Pharmaceutics</a></li> 
+                                                                                              
+
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="sf-submit">
+                                    <input type="button" value="Search Course">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--END HEADER SECTION-->
+
+<style type="text/css">
+    .center_class{
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+    }
+</style>    <!--== 404 Page Page Content Start ==-->
+    <section id="page-404-wrap" class="section-padding overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="page-404-content">
+                        <div class="number">
+                            <div class="four">4</div>
+                            <div class="zero">
+                                <img alt="We unable to find image"  src="assets/img/404.png" alt="JSOFT">
+                            </div>
+                            <div class="four">4</div>
+                        </div>
+                        <h4>PAGE NOT FOUND !</h4>
+                        <p>SORRY, WE COULDN'T FIND THE PAGE <br> YOU'RE LOOKING.</p>
+                        <a href="https://sanjivanipharm.org.in/" class="btn-404-home"><i class="fa fa-home"></i>Go to Home</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--== 404 Page Page Content End ==-->
+
+ <!-- FOOTER COURSE BOOKING -->
+<!--     <section>
+        <div class="full-bot-book">
+            <div class="container">
+                <div class="row">
+                    <div class="bot-book">
+                        <div class="col-md-2 bb-img">
+                            <img src="https://sanjivanipharm.org.in/assets/images/3.png" alt="">
+                        </div>
+                        <div class="col-md-7 bb-text">
+                            <h4>therefore always free from repetition</h4>
+                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+                        </div>
+                        <div class="col-md-3 bb-link">
+                            <a href="course-details.html">Book This Course</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+     -->
+
+     <section>
+         <div class="row">
+            <br>
+            <br>
+         </div>
+     </section>
+
+
+
+<section>
+    <style>
+        /* Additional CSS styles */
+        .industry_logo_div .row {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .industry_logo_div .col-sm-1 {
+            flex: 0 0 8.33%; /* Adjust this value to control the width of each column */
+            max-width: 8.33%; /* Adjust this value to control the width of each column */
+            padding: 5px; /* Add some padding between columns */
+            height: 100px; /* Set a fixed height for the column */
+            overflow: hidden; /* Hide any overflow from the images */
+        }
+
+        .industry_logo_div .col-sm-1 img {
+            width: 100%; /* Make the images inside the column take up the full width */
+            height: 100%; /* Set the height to 100% to ensure the images fit fully */
+            object-fit: cover; /* Make the images cover the container */
+            display: block;
+            margin: 0 auto; /* Center the images horizontally */
+        }
+
+        /* Custom Slider Controls */
+        .slider-controls {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 10px;
+        }
+
+        .slider-control {
+            width: 40px;
+            height: 40px;
+            border: 1px solid #ccc;
+            border-radius: 50%;
+            background-color: #f9f9f9;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+    </style>
+    <div class="row">
+        <div class="con-title">
+            <h2>Industry Logo</h2>
+        </div>
+    </div>
+    
+    <div class="row industry_logo_div">
+                                    <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/5.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/18.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/50.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/37.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/47.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/25.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/55.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/9.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/42.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/1.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/56.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/8.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/2.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/33.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/17.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/35.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/23.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/52.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/22.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/39.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/15.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/31.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/4.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/13.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/30.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/49.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/11.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/7.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/20.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/40.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/41.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/24.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/48.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/43.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/51.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/53.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/38.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/32.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/12.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/6.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/26.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/10.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/54.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/46.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/45.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/34.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/0.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/16.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/27.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/29.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/28.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/14.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/3.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/19.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/44.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/36.jpg" alt="">
+                            </div>
+                                                        <div class="col-sm-1">
+                                <img src="./uploads/industry_logo/21.jpg" alt="">
+                            </div>
+                                </div>
+
+    <!-- Custom Slider Controls -->
+    <div class="slider-controls">
+        <div class="slider-control prev-slide">&lt;</div>
+        <div class="slider-control next-slide">&gt;</div>
+    </div>
+</section>
+
+
+ 
+
+
+
+
+    <!-- FOOTER -->
+    <section class="wed-hom-footer">
+        <div class="container">
+            <!--<div class="row">
+                <div class="col-md-12">
+                <h4>About Wedding Planner</h4>
+                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum</p>
+                <p>more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text</p>
+                <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+                <p></p>
+              </div>
+              </div>-->
+            <div class="row wed-foot-link">
+                <div class="col-md-4 foot-tc-mar-t-o">
+                    <h4>Top Courses</h4>
+                    <ul>
+                                                                                                             <li><a href="https://sanjivanipharm.org.in/courses/detail/4">Diploma of Pharmacy</a></li>
+                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/3">Bachelor of Pharmacy</a></li>
+                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/2">Master of Pharmacy</a></li>
+                                                            <li><a href="https://sanjivanipharm.org.in/courses/detail/1">Ph.D.</a></li>
+                                                       
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h4>Departments</h4>
+                    <ul>
+                         
+                                                                                        <li><a href="https://sanjivanipharm.org.in/departments/detail/4">Pharmacology</a></li> 
+                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/3">Pharmacognosy</a></li> 
+                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/2">Pharmaceutical Chemistry</a></li> 
+                                                            <li><a href="https://sanjivanipharm.org.in/departments/detail/1">Pharmaceutics</a></li> 
+                                                      
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h4>HELP & SUPPORT</h4>
+                    <ul>
+                        <li><a href="https://sanjivanipharm.org.in/courses">Popular Courses</a>
+                        </li>
+                        <li><a href="https://sanjivanipharm.org.in/contact_us">Contact us</a>
+                        </li>
+                        <!-- <li><a href="#">Feedback</a> -->
+                        </li>
+                        <!-- <li><a href="#">FAQs</a> -->
+                        </li>
+                        <!-- <li><a href="#">Safety Tips</a> -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row wed-foot-link-1">
+                <div class="col-md-4 foot-tc-mar-t-o">
+                    <h4>Sanjivani College of Pharmaceutical Education and Research</h4>
+                    <p>
+                        Turn your dreams into glorious reality. Be what you wish to be. Let your journey towards success be a remarkable one with Sanjivani Group of Institutes.
+                    </p> 
+                    <p>Phone: <a href="#!">91-91 301 913 01</a></p>
+                    <p>Time: <a href="#!">Mon - Sat 8.00 - 18.00</a></p>
+                    <!-- <p>Email: <a href="#!">info@educationmaster.com</a></p> -->
+                </div>
+                <div class="col-md-4">
+                    <h4>Get In Touch</h4>
+                    <ul>
+                        <li>
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571&amp;tabs=timeline&amp;width=340&amp;height=150&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="340" height="150" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                        </li>
+                        <li >
+                            <!-- <iframe src="https://www.google.com/maps?ll=19.902543,74.492865&z=10&t=m&hl=en-GB&gl=US&mapclient=embed&cid=10436501639427212946&key=YOUR_API_KEY" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe> --> 
+                            <!--<iframe src="https://www.google.com/maps/place/Sanjivani+College+of+Pharmaceutical+Education+%26+Research/@19.902543,74.492865,10z/data=!4m6!3m5!1s0x3bdc447715555557:0x90d5e6f233d74692!8m2!3d19.9025431!4d74.4928648!16s%2Fg%2F1q6b561lh?hl=en-US&entry=ttu" width="340" height="150" style="border:none;overflow:hidden" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+                            <!--<img src="" width="340" height="150" >-->
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.5185143701365!2d74.49067611491411!3d19.902543086619126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdc447715555557%3A0x90d5e6f233d74692!2sSanjivani%20College%20of%20Pharmaceutical%20Education%20%26%20Research!5e0!3m2!1sen!2sin!4v1688404543531!5m2!1sen!2sin" width="340" height="150"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h4>SOCIAL MEDIA</h4>
+                    <ul>
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UCVR0A7E8_gK-FoVv0u2Vk2w/videos?view_as=subscriber"><i class="fa fa-youtube" aria-hidden="true"></i></a> </li>
+                        <li><a target="_blank" href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>
+                        <li><a target="_blank" href="https://www.facebook.com/Sanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+                        <li><a target="_blank" href="https://twitter.com/Sanjivani_Group?lang=en"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+                        <!-- <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a> </li> -->
+                        <!-- <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i></a> </li> --> 
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- COPY RIGHTS -->
+    <section class="wed-rights">
+        <div class="container">
+            <div class="row">
+                <div class="copy-right">
+                    <p>Copyrights © 2024 SANJIVANI PHARMA. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--SECTION LOGIN, REGISTER AND FORGOT PASSWORD-->
+    <section>
+        <!-- LOGIN SECTION -->
+        <div id="modal1" class="modal fade" role="dialog">
+            <div class="log-in-pop">
+                <div class="log-in-pop-left">
+                    <h1>Hello...</h1>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <h4>Login with social media</h4>
+                    <ul>
+                        <li><a targe="_blank" href="https://www.youtube.com/channel/UCVR0A7E8_gK-FoVv0u2Vk2w/videos?view_as=subscriber"><i class="fa fa-youtube"></i>Youtube</a> </li>
+                        <li><a targe="_blank" href="https://www.instagram.com/"><i class="fa fa-instagram"></i> Instagram</a> </li>
+                        <li><a targe="_blank" href="https://www.facebook.com/Sanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571"><i class="fa fa-facebook"></i> Facebook</a> </li> 
+                        <li><a targe="_blank" href="https://twitter.com/Sanjivani_Group?lang=en"><i class="fa fa-twitter"></i> Twitter</a> </li>
+                        
+                    </ul>
+                </div>
+                <div class="log-in-pop-right">
+                    <a href="#" class="pop-close" data-dismiss="modal"><img src="https://sanjivanipharm.org.in/assets/images/cancel.png" alt="" />
+                    </a>
+                    <h4>Login</h4>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <form class="s12">
+                        <div>
+                            <div class="input-field s12">
+                                <input type="text" data-ng-model="name" class="validate">
+                                <label>User name</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12">
+                                <input type="password" class="validate">
+                                <label>Password</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="s12 log-ch-bx">
+                                <p>
+                                    <input type="checkbox" id="test5" />
+                                    <label for="test5">Remember me</label>
+                                </p>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s4">
+                                <input type="submit" value="Login" class="waves-effect waves-light log-in-btn"> </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12"> <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#modal3">Forgot password</a> | <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#modal2">Create a new account</a> </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- REGISTER SECTION -->
+        <div id="modal2" class="modal fade" role="dialog">
+            <div class="log-in-pop">
+                <div class="log-in-pop-left">
+                    <h1>Hello...</h1>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <h4>Login with social media</h4>
+                    <ul>
+                        <li><a href="#"><i class="fa fa-facebook"></i> Facebook</a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-google"></i> Google+</a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-twitter"></i> Twitter</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="log-in-pop-right">
+                    <a href="#" class="pop-close" data-dismiss="modal"><img src="https://sanjivanipharm.org.in/assets/images/cancel.png" alt="" />
+                    </a>
+                    <h4>Create an Account</h4>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <form class="s12">
+                        <div>
+                            <div class="input-field s12">
+                                <input type="text" data-ng-model="name1" class="validate">
+                                <label>User name</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12">
+                                <input type="email" class="validate">
+                                <label>Email id</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12">
+                                <input type="password" class="validate">
+                                <label>Password</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12">
+                                <input type="password" class="validate">
+                                <label>Confirm password</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s4">
+                                <input type="submit" value="Register" class="waves-effect waves-light log-in-btn"> </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12"> <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#modal1">Are you a already member ? Login</a> </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- FORGOT SECTION -->
+        <div id="modal3" class="modal fade" role="dialog">
+            <div class="log-in-pop">
+                <div class="log-in-pop-left">
+                    <h1>Hello... </h1>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <h4>Login with social media</h4>
+                    <ul>
+                        <li><a target="_blank" href="https://www.facebook.com/Sanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571"><i class="fa fa-facebook"></i> Facebook</a>
+                        </li>
+                        <li><a target="_blank" href="https://www.youtube.com/channel/UCVR0A7E8_gK-FoVv0u2Vk2w/videos?view_as=subscriber"><i class="fa fa-youtube"></i> Youtube</a>
+                        </li>
+                        <li><a target="_blank" href="https://twitter.com/Sanjivani_Group?lang=en"><i class="fa fa-twitter"></i> Twitter</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="log-in-pop-right">
+                    <a href="#" class="pop-close" data-dismiss="modal"><img src="https://sanjivanipharm.org.in/assets/images/cancel.png" alt="" />
+                    </a>
+                    <h4>Forgot password</h4>
+                    <p>Don't have an account? Create your account. It's take less then a minutes</p>
+                    <form class="s12">
+                        <div>
+                            <div class="input-field s12">
+                                <input type="text" data-ng-model="name3" class="validate">
+                                <label>User name or email id</label>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="input-field s4">
+                                <input type="submit" value="Submit" class="waves-effect waves-light log-in-btn"> </div>
+                        </div>
+                        <div>
+                            <div class="input-field s12"> <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#modal1">Are you a already member ? Login</a> | <a href="#" data-dismiss="modal" data-toggle="modal" data-target="#modal2">Create a new account</a> </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SOCIAL MEDIA SHARE -->
+    <section>
+        <div class="icon-float">
+            <ul>
+                <!-- <li><a href="#" class="sh">1k <br> Share</a> </li> -->
+                <li><a target="_blank" href="https://www.youtube.com/channel/UCVR0A7E8_gK-FoVv0u2Vk2w/videos?view_as=subscriber" class="fb1"><i class="fa fa-youtube" aria-hidden="true"></i></a> </li>
+                <li><a target="_blank" href="https://www.instagram.com/" class="fb1"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>
+                <li><a target="_blank" href="https://www.facebook.com/Sanjivani-College-of-Pharmaceutical-Education-and-Research-Kopargaon-115461550002571" class="fb1"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+                <li><a target="_blank" href="https://twitter.com/Sanjivani_Group?lang=en" class="tw1"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+                <!-- <li><a href="#" class="gp1"><i class="fa fa-google-plus" aria-hidden="true"></i></a> </li> -->
+                <!-- <li><a href="#" class="li1"><i class="fa fa-linkedin" aria-hidden="true"></i></a> </li> -->
+                <!-- <li><a href="#" class="wa1"><i class="fa fa-whatsapp" aria-hidden="true"></i></a> </li> -->
+                <!-- <li><a href="#" class="sh1"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> </li> -->
+            </ul>
+        </div>
+    </section>
+
+    <!--Import jQuery before materialize.js-->
+
+       <script src="https://sanjivanipharm.org.in/assets/jquery/jquery.min.js"></script>
+
+
+    <script src="https://sanjivanipharm.org.in/assets/js/main.min.js"></script>
+    <script src="https://sanjivanipharm.org.in/assets/js/bootstrap.min.js"></script>
+    <script src="https://sanjivanipharm.org.in/assets/js/materialize.min.js"></script>
+    <script src="https://sanjivanipharm.org.in/assets/js/custom.js"></script>
+    <script src="https://sanjivanipharm.org.in/assets/newjs/jquery.validate.min.js"></script>
+  
+
+   <!-- <script src="https://sanjivanipharm.org.in/assets/jquery/jquery.min.js"></script> -->
+
+ <script type="text/javascript">
+        // var myJQuery = jQuery.noConflict();
+     
+        // myJQuery(function () {  
+        //     myJQuery('#from-add').validate(); 
+        // }); 
+     
+     
+     
+     
+    </script>
+
+ <script>
+  function readmore(th){ 
+      //$(th).parent(".home-top-cour-desc").find(".less_div").css("display","none");
+    //   console.log($(th).parent(".home-top-cour-desc").html());
+    console.log($(th).parent(".home-top-cour-desc").find(".less_div").hasClass("active"))
+    console.log($(th).parent(".home-top-cour-desc").find(".less_div").attr("class"))
+      if($(th).parent(".home-top-cour-desc").find(".less_div").hasClass("active")){
+            $(th).parent(".home-top-cour-desc").find(".less_div").css("display","none").removeClass("active");
+            $(th).parent(".home-top-cour-desc").find(".full_div").css("display","block").addClass("active");
+      }else{
+          $(th).parent(".home-top-cour-desc").find(".less_div").css("display","block").addClass("active");
+          $(th).parent(".home-top-cour-desc").find(".full_div").css("display","none").removeClass("active");
+      }
+      
+  }
+</script>
+
+
+
+  
+
+
+<a href="#" style="display:none;" id="modal_course_enquiry_btn" data-dismiss="modal" data-toggle="modal" data-target="#modal_course_enquiry">Course enquiry</a>
+<div id="modal_course_enquiry" class="modal fade" role="dialog">
+    <div class="log-in-pop"> 
+        <div class="log-in-pop-right">
+            <a href="#" class="pop-close" data-dismiss="modal">
+                <i class="fa fa-close"></i>
+                <!--<img src="https://sanjivanipharm.org.in/assets/images/cancel.png" alt="" />-->
+            </a>
+            <h4>Course Enquiry</h4>
+            <div id="success_message" calss="success_message"></div>
+            <!--<img src="uploads/img123.jpg" width="" height="auto"/>
+            <!--<p>Don't have an account? Create your account. It's take less then a minutes</p>-->
+            <img src="uploads/img123.jpg" class="img img-responsive" style="max-width:700px; height:500px; "/>
+           
+            <!-- 
+             <form class="s12" name="frm_contact_us" id="frm_contact_us" action="https://sanjivanipharm.org.in/contact/sendemail" method="post">
+                 <img src="uploads/img123.jpg" width="700" height="500" class="img img-responsive"/>
+                   <div class="input-field s12">
+                        <input type="text" name="name" id="name" title="Name"  placeholder="Name" required >
+                    </div>
+
+                    <div class="input-field s12">
+                        <input type="number" min="0" id="mobile" name="mobile" error-msg="This is not valid Mobile Number" title="Mobile Number"  placeholder="Phone" required > 
+                    </div>
+
+                    <div class="input-field s12">
+                        <input type="email" id="email" name="email" error-msg="This is not a valid Email ID" title="Email ID" placeholder="Email" required > 
+                    </div>
+
+                    <div class="input-field s12">
+                        <textarea id="message" name="message" title="Message" placeholder="Message" required ></textarea>
+                    </div> 
+                    
+                    
+                    <div class="s12"> 
+                        <div class="input-field col s12">
+                            <select id="course" name="course" data-rule-required="true" data-msg-required="Please enter course." >
+                                                            </select>
+                        </div>
+                    </div>
+                        
+                        <br>
+                        <br>
+                        <br>
+                 <div>
+                    <div class="input-field s12">  
+                    <input type="hidden" id="type" name="type" value="course_enquiry">
+                    <button type="submit" value="Submit" class="waves-effect waves-light log-in-btn">Submit</button>  
+                    <a href="#" data-dismiss="modal" class="waves-effect waves-light log-in-btn">Close</a> </div>
+                </div>
+            </form>
+            -->
+            
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+        // $('#modal_course_enquiry').modal('show');
+</script>
+
+
+  <script type="text/javascript">
+     
+    
+    $(function(){ 
+      $('#frm_contact_us').validate({ 
+          onkeyup: function(element){this.element(element);},
+          rules:{ 
+            name:{  required:true },  
+            mobile:{  required:true },  
+            email:{  required:true,email:true },  
+            message:{  required:true },  
+          },
+          submitHandler: function(form) { 
+              $.ajax({
+                url : "https://sanjivanipharm.org.in/contact/sendemail", 
+                data:new FormData($("#frm_contact_us")[0]),
+                type: "POST",        
+                dataType: "JSON",
+                processData:false,
+                contentType:false,
+                cache:false,
+                async:false,
+                beforeSend:function(){
+                  // $("#relod").removeAttr("style");
+                },
+                success: function(response) 
+                { 
+                  // alert(response);
+                  $('#frm_contact_us')[0].reset();
+                  if(response.status == "success"){  
+                    $('#success_message').html('<div class="alert alert-success alert-dismissable"><a href="" class="close" data-dismiss="alert" aria-label="close">&times;</a><strong>'+response.message+'</strong></div>'); 
+                  }else{ 
+                    $('#success_message').html('<div class="alert alert-danger alert-dismissable"><a href="" class="close" data-dismiss="alert" aria-label="close">&times;</a><strong>'+response.message+'</strong></div>'); 
+                  }
+
+
+                  // $("#relod").css("display","none");
+                } 
+            });
+          } 
+      });  
+
+    });
+
+  </script>
+  
+  
+  
+   <!-- jQuery -->
+    <!--<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>-->
+    
+    <!-- Slick Carousel CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    
+    <!-- Slick Carousel Theme CSS (optional, for default styling) -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    
+    <!-- Slick Carousel JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    
+    <!-- Your custom script -->
+    <script>
+        // Initialize the Slick Carousel here
+    </script>
+    
+
+
+
+<!-- Initialize the Slick Carousel Slider -->
+<script>
+    $(document).ready(function() {
+        const slider = $('.industry_logo_div').slick({
+            slidesToShow: 5, // Adjust the number of logos to show at a time
+            slidesToScroll: 1,
+            autoplay: true, // Set to true to enable autoplay
+            autoplaySpeed: 2000, // Adjust the autoplay speed in milliseconds (e.g., 2000 = 2 seconds)
+            arrows: false, // Set to false to hide default navigation arrows
+            dots: false, // Set to false to hide default navigation dots
+            responsive: [
+                {
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 3 // Adjust the number of logos to show at a time on smaller screens
+                    }
+                }
+            ]
+        });
+
+        // Custom Slider Controls
+        $('.prev-slide').on('click', function() {
+            slider.slick('slickPrev');
+        });
+
+        $('.next-slide').on('click', function() {
+            slider.slick('slickNext');
+        });
+    });
+</script>
+
+
+
+
+</body>
+
+</html>
